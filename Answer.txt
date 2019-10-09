@@ -1,0 +1,6 @@
+Optimal Route from 10 to 9 
+ 
+10 to 194
+194 to 9
+
+Arrive at 9 at time 14
